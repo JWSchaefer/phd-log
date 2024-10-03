@@ -1,0 +1,10 @@
+schaefer:
+  name: Joe Schaefer
+  title: Doctoral Student
+  url: https://github.com/JWSchaefer
+  image_url: https://github.com/JWSchaefer.png
+  page:
+    true
+  socials:
+    github: JWSchaefer
+
