@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://JWSchaefer.github.io/phd-log/blog</id>
+    <title>Phd Log Blog</title>
+    <updated>2024-10-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://JWSchaefer.github.io/phd-log/blog"/>
+    <subtitle>Phd Log Blog</subtitle>
+    <icon>https://JWSchaefer.github.io/phd-log/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello, World!]]></title>
+        <id>https://JWSchaefer.github.io/phd-log/blog/hello-world</id>
+        <link href="https://JWSchaefer.github.io/phd-log/blog/hello-world"/>
+        <updated>2024-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <content type="html"><![CDATA[<p>Hello world!</p>]]></content>
+    </entry>
+</feed>
