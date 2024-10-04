@@ -7,7 +7,7 @@ import rehypeKatex from 'rehype-katex';
 const config: Config = {
   title: 'Phd Log',
   tagline: 'An Log of my PhD Work at Imperial Collage London',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_low.png',
 
   // Set the production url of your site here
   url: 'https://JWSchaefer.github.io',
