@@ -29,16 +29,15 @@
             <content:encoded><![CDATA[<p>Hello world!</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Entry 1]]></title>
-            <link>https://JWSchaefer.github.io/phd-log/blog/1</link>
-            <guid>https://JWSchaefer.github.io/phd-log/blog/1</guid>
+            <title><![CDATA[Entry 2]]></title>
+            <link>https://JWSchaefer.github.io/phd-log/blog/2</link>
+            <guid>https://JWSchaefer.github.io/phd-log/blog/2</guid>
             <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[📕 Book: Fuel Cell Systems Explained]]></description>
             <content:encoded><![CDATA[<p>📕 Book: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118706992" target="_blank" rel="noopener noreferrer">Fuel Cell Systems Explained</a></p>
 <ul>
-<li>✅ Chapter 2: Efficiency and Open Circuit Voltage</li>
-<li>✅ Chapter 3: Operational Fuel Cell Voltages</li>
-<li>⏰ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
+<li>✅ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
+<li>✅ Chapter 10: Delivering Fuel Cell Power</li>
 </ul>]]></content:encoded>
         </item>
     </channel>
