@@ -21,14 +21,6 @@
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hello, World!]]></title>
-            <link>https://JWSchaefer.github.io/phd-log/blog/hello-world</link>
-            <guid>https://JWSchaefer.github.io/phd-log/blog/hello-world</guid>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello world!]]></description>
-            <content:encoded><![CDATA[<p>Hello world!</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Entry 2]]></title>
             <link>https://JWSchaefer.github.io/phd-log/blog/2</link>
             <guid>https://JWSchaefer.github.io/phd-log/blog/2</guid>
@@ -39,6 +31,14 @@
 <li>✅ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
 <li>✅ Chapter 10: Delivering Fuel Cell Power</li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hello, World!]]></title>
+            <link>https://JWSchaefer.github.io/phd-log/blog/hello-world</link>
+            <guid>https://JWSchaefer.github.io/phd-log/blog/hello-world</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world!]]></description>
+            <content:encoded><![CDATA[<p>Hello world!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
