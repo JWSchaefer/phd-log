@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkphd_log=self.webpackChunkphd_log||[]).push([[472],{5513:l=>{l.exports=JSON.parse('{"title":"All logs","items":[{"title":"Hello, World!","permalink":"/phd-log/blog/hello-world","unlisted":false,"date":"2024-10-03T00:00:00.000Z"}]}')}}]);

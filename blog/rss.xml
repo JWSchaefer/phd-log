@@ -4,10 +4,21 @@
         <title>Phd Log Blog</title>
         <link>https://JWSchaefer.github.io/phd-log/blog</link>
         <description>Phd Log Blog</description>
-        <lastBuildDate>Thu, 03 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Entry 1]]></title>
+            <link>https://JWSchaefer.github.io/phd-log/blog/1</link>
+            <guid>https://JWSchaefer.github.io/phd-log/blog/1</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[📕 Book: Fuel Cell Systems Explained]]></description>
+            <content:encoded><![CDATA[<p>📕 Book: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118706992" target="_blank" rel="noopener noreferrer">Fuel Cell Systems Explained</a></p>
+<ul>
+<li>⏰ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hello, World!]]></title>
             <link>https://JWSchaefer.github.io/phd-log/blog/hello-world</link>
@@ -15,6 +26,17 @@
             <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello world!]]></description>
             <content:encoded><![CDATA[<p>Hello world!</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Entry 1]]></title>
+            <link>https://JWSchaefer.github.io/phd-log/blog/1</link>
+            <guid>https://JWSchaefer.github.io/phd-log/blog/1</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[📕 Book: Fuel Cell Systems Explained]]></description>
+            <content:encoded><![CDATA[<p>📕 Book: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118706992" target="_blank" rel="noopener noreferrer">Fuel Cell Systems Explained</a></p>
+<ul>
+<li>⏰ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
+</ul>]]></content:encoded>
         </item>
     </channel>
 </rss>
