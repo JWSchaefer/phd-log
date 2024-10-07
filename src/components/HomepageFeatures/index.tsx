@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/open.svg').default,
     description: (
       <>
-        Github actions allows me to write my entries without worrying about deployment. Just write, commit, forget.
+        Git hooks allow me to write my entries without worrying about deployment. Just write, commit, push, and forget.
       </>
     ),
   },
