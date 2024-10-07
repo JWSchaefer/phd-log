@@ -4,10 +4,22 @@
         <title>Phd Log Blog</title>
         <link>https://JWSchaefer.github.io/phd-log/blog</link>
         <description>Phd Log Blog</description>
-        <lastBuildDate>Fri, 04 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Entry 3]]></title>
+            <link>https://JWSchaefer.github.io/phd-log/blog/3</link>
+            <guid>https://JWSchaefer.github.io/phd-log/blog/3</guid>
+            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🧑‍🏫 Learning: Week 2 of Induction Sessions]]></description>
+            <content:encoded><![CDATA[<p>🧑‍🏫 Learning: Week 2 of Induction Sessions</p>
+<p>📕 Reading: <a href="https://link.springer.com/book/10.1007/978-1-4471-3792-4" target="_blank" rel="noopener noreferrer">Control of Fuel Cell Power Systems</a></p>
+<ul>
+<li>⏰ Chapter 2: Fuel Cell System Model: Auxiliary Components</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Entry 2]]></title>
             <link>https://JWSchaefer.github.io/phd-log/blog/2</link>
@@ -18,7 +30,17 @@
 <ul>
 <li>✅ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
 <li>✅ Chapter 10: Delivering Fuel Cell Power</li>
-</ul>]]></content:encoded>
+</ul>
+<p>📕 Book: <a href="https://link.springer.com/book/10.1007/978-1-4471-3792-4" target="_blank" rel="noopener noreferrer">Control of Fuel Cell Power Systems</a></p>
+<ul>
+<li>
+<p>✅ Chapter 1: Fuel Cell System Model: Auxiliary Components</p>
+</li>
+<li>
+<p>⏰ Chapter 2: Fuel Cell System Model: Auxiliary Components</p>
+</li>
+</ul>
+<p>🔎 Search: Began Looking Into Litterature on Hydrogen Fuel Cell Systems for Aviation</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Entry 1]]></title>
@@ -31,7 +53,12 @@
 <li>✅ Chapter 2: Efficiency and Open Circuit Voltage</li>
 <li>✅ Chapter 3: Operational Fuel Cell Voltages</li>
 <li>⏰ Chapter 9: Compressors, Turbines, Ejectors, Fans, Blowers, and Pumps</li>
-</ul>]]></content:encoded>
+</ul>
+<p>📕 Book; <a href="https://link.springer.com/book/10.1007/978-1-4471-3792-4" target="_blank" rel="noopener noreferrer">Control of Fuel Cell Power Systems</a></p>
+<ul>
+<li>Chapter 2: Fuel Cell System Model: Auxiliary Components</li>
+</ul>
+<p>🔎 Search: Began Looking Into Litterature on Hydrogen Fuel Cell Systems for Aviation</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
